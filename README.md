@@ -1,3 +1,4 @@
+# first commit
 # Hardhat Hackathon Boilerplate
 
 This repository contains a sample project that you can use as the starting point
